@@ -14,7 +14,7 @@
 |         | se           | 3.92 MB  | 3.73 MB  | 0.19 MB  |
 | effects | Texture      | 562 KB   | 77.3 KB  | 484.7 KB |
 | icon    |              | 4.81 KB  | 0.81 KB  | 4 KB     |
-| img     |              | 51.9 MB  | 0 MB     | 51.9 MB  |
+| img     |              | 51.9 MB  | 15.7 MB  | 36.2 MB  |
 |         | battlebacks1 | 16.8 MB  | 3.64 MB  | 13.16 MB |
 |         | battlebacks2 | 6.38 MB  | 1.34 MB  | 5.04 MB  |
 |         | characters   | 1.79 MB  | 1.05 MB  | 0.74 MB  |
